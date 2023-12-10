@@ -14,7 +14,8 @@ PyTrim is your go-to solution for streamlining Python code effortlessly. This po
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PYTRIM.git
     * cd DEDSEC_PYTRIM
-    * pip install tabulate pystyle 
+    * pip install pystyle 
+    * chmod +x dedsec_pytrim
     * ./dedsec_pytrim
 
 ### TESTED ON FOLLOWING:
